@@ -54,7 +54,7 @@ This integration allows you to:
 2. Click **Add Integration**
 3. Search for **Komodo**
 4. Enter your configuration:
-   - **Host**: The IP address or hostname of your Komodo instance (e.g., `192.168.1.100:9120` or `komodo.local:9120`)
+   - **Host**: The IP address or hostname of your Komodo instance (e.g., `http://192.168.1.100:9120` or `komodo.local:9120`) Ensure to include the URL scheme, (e.g., 'http://' or 'https://')
    - **API Key**: Your Komodo API key
    - **API Secret**: Your Komodo API secret
 5. Click **Submit**
